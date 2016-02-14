@@ -1,6 +1,6 @@
 # Neural Style - Valentine's Day Version
 
-I used ![simulacre7's work][https://github.com/simulacre7/tensorflow-IPythonNotebook/tree/master/neural-style] and applied it to my own photos.
+I used ![simulacre7's work](https://github.com/simulacre7/tensorflow-IPythonNotebook/tree/master/neural-style) and applied it to my own photos.
 
 It's an implementation of [neural style][paper] written in TensorFlow with IPythonNotebook.
 
