@@ -14,6 +14,16 @@ These were the input images used (My wife and I in Hong Kong):
 
 ![input-style](images/style1.jpg)
 
+## Example 2
+
+![output](images/output_hkphoto2.jpg)
+
+These were the input images used (My wife and I in Hong Kong):
+
+![input-content](images/italyphoto.jpg)
+
+![input-style](images/style6.jpg)
+
 ## Details
 
 According to simulacre7:
