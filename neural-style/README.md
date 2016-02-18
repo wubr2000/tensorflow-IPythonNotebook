@@ -22,7 +22,7 @@ These were the input images used (My wife and I in Hong Kong):
 
 ![input-content](images/italyphoto.jpg)
 
-![input-style](images/style6.jpg)
+![input-style](images/style6.JPG)
 
 ## Details
 
