@@ -28,11 +28,11 @@ These were the input images used (us in Italy):
 
 ![output](images/output_sichuanphoto.jpg)
 
-These were the input images used (us in Italy):
+These were the input images used (us in China):
 
 ![input-content](images/sichuanphoto.jpg)
 
-![input-style](images/style1.JPG)
+![input-style](images/style1.jpg)
 
 ## Details
 
