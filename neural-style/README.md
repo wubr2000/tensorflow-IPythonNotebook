@@ -24,6 +24,16 @@ These were the input images used (us in Italy):
 
 ![input-style](images/style6.JPG)
 
+## Example 3
+
+![output](images/output_sichuanphoto.jpg)
+
+These were the input images used (us in Italy):
+
+![input-content](images/sichuanphoto.jpg)
+
+![input-style](images/style1.JPG)
+
 ## Details
 
 According to simulacre7:
