@@ -18,7 +18,7 @@ These were the input images used (My wife and I in Hong Kong):
 
 ![output](images/output_hkphoto2.jpg)
 
-These were the input images used (My wife and I in Hong Kong):
+These were the input images used (us in Italy):
 
 ![input-content](images/italyphoto.jpg)
 
